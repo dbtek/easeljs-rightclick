@@ -1,7 +1,7 @@
 {
   "name": "easeljs-rightclick",
   "description": "Additional right click event for EaselJS DisplayObject classs.",
-  "main": "righclick.js",
+  "main": "rightclick.js",
   "authors": [
     "İsmail Demirbilek <ce.demirbilek@gmail.com>"
   ],
