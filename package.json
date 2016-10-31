@@ -1,0 +1,29 @@
+{
+  "name": "easeljs-rightclick",
+  "version": "0.1.0",
+  "description": "Additional right click event for EaselJS DisplayObject classs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dbtek/easeljs-rightclick.git"
+  },
+  "keywords": [
+    "easeljs",
+    "right",
+    "click",
+    "additional",
+    "event",
+    "display",
+    "object",
+    "shape"
+  ],
+  "author": "İsmail Demirbilek <ce.demirbilek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbtek/easeljs-rightclick/issues"
+  },
+  "homepage": "https://github.com/dbtek/easeljs-rightclick#readme"
+}

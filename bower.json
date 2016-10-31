@@ -1,0 +1,33 @@
+{
+  "name": "easeljs-rightclick",
+  "description": "Additional right click event for EaselJS DisplayObject classs.",
+  "main": "righclick.js",
+  "authors": [
+    "İsmail Demirbilek <ce.demirbilek@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "easeljs",
+    "right",
+    "click",
+    "additional",
+    "event",
+    "display",
+    "object",
+    "shape"
+  ],
+  "homepage": "https://github.com/dbtek/easeljs-rightclick",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "easeljs#^0.8.2"
+  }
+}
