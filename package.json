@@ -1,6 +1,6 @@
 {
   "name": "easeljs-rightclick",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Additional right click event for EaselJS DisplayObject classs.",
   "main": "index.js",
   "scripts": {
