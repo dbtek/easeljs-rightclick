@@ -7,7 +7,7 @@
 (function() {
   var _addEventListener = createjs.DisplayObject.prototype.addEventListener;
   /**
-   * [_rightClickListener description]
+   * Called when click event with right mouse button happens.
    * @param  {Function} callback Actual right click event handler function.
    * @return {Function}          Mouse down handler function, evaluates event and decides whether it's a right click or not. If it's right one, calls callback function.
    */
@@ -31,7 +31,8 @@
   };
 
   /**
-   * Extends addEventListener to support right click on display object instances.
+   * Overrides addEventListener to support right click on display object instances.
+   * @override
    * @param {String} type         Event type
    * @param {Function} listener   Callback
    * @param {Boolean} useCapture  ?
